@@ -26,6 +26,4 @@ public class MultiSelectDropDown {
         Thread.sleep(2000);
         System.out.println("The drop Down is Multiple; "+sel.isMultiple());
         drivers.quit();
-
-
     }}
